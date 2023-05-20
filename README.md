@@ -1,0 +1,2 @@
+# GTeszt
+Git használati próba
